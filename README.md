@@ -38,22 +38,11 @@ README.md
 2. Open `index.html` in a browser.
 3. Enter values and start spinning.
 
-## Deploy on GitHub Pages
-
-1. Create a GitHub repository.
-2. Add `index.html` to the repository root.
-3. Commit and push the changes.
-4. Open the repository settings.
-5. Go to **Pages**.
-6. Select **Deploy from a branch**.
-7. Choose the `main` branch and `/ (root)` folder.
-8. Save and wait for GitHub Pages to publish the site.
-
 ## Live Demo
 
-Your site will be available at:
+Your site is available at:
 
-`https://USERNAME.github.io/REPOSITORY-NAME`
+`https://pbose16.github.io/WheelRandomizer/`
 
 ## Notes
 
